@@ -17,4 +17,5 @@ elif x or y:
     print(f"x yoke y mavjud bo\'lsa shar bajariladi!!! x={x} or y={y}")
 else:
     print("ikki shar bajarilmadi")
-    
+
+
