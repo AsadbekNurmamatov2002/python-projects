@@ -18,6 +18,15 @@ Bitli operatorlar
 % qoldiqli bo'lish x%y
 // butunli bo'lish x//y
 """
+x=int(input("butun son kiritilsin\t x="))
+y=int(input("butun son kiritilsin\t y="))
+s=x+y
+a=x-y
+k=x*y
+b=x/y
+q=x%y
+bb=x//y
+print(f"+ Qo'shish x+y={s}\n - Ayirish x-y={a}\n * Ko'paytieish x*y={k}\n / bo'lish x/y={b}\n % qoldiqli bo'lish x%y={q}\n // butunli bo'lish x//y={bb}")
 # O'zlashtirish operatorlar
 """
 =   x=5  x=5
