@@ -1,3 +1,13 @@
+# pythonda shart operatorlar
+"""
+if- agar
+elif-agarda
+else- aks holda
+pythonda shart operatorlar 
+dasturimizda o'zimizni shartlarimizni kiritish imkonini 
+beradi...
+"""
+
 x=int(input("x="))
 y=int(input("y="))
 
